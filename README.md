@@ -15,12 +15,12 @@ https://murmuring-mountain-62968.herokuapp.com/api/products/(id)
 ### To modify one product  
 send the request with the method PUT  
 https://murmuring-mountain-62968.herokuapp.com/api/products/(id)  
-in the body add the modifications (ex: { "title": "New title" } )  
+in the body add the modifications in format JSON (ex: { "title": "New title" } )  
 
 ### To add a product  
 send the request with the method POST  
 https://murmuring-mountain-62968.herokuapp.com/api/products/  
-in the body add the new product (ex: { "title": "the title", "price": 100.3, ... } )  
+in the body add the new product in format JSON (ex: { "title": "the title", "price": 100.3, ... } )  
 
 ## Authors
 
