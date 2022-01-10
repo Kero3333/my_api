@@ -27,5 +27,5 @@ in the body add the new product in format JSON (ex: { "title": "the title", "pri
 * Kévin Robic [![IconeGithub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kero3333)
 * Romain Chenais [![IconeGithub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/naorimsenchai)
 * Dylan Bourdais [![IconeGithub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dylanbourdais) 
-* Timothée J  [![IconeGithub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bubamara0) 
+* Timothée Junin [![IconeGithub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bubamara0) 
 
